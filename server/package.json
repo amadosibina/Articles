@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/amadosibina.git"
+  },
+  "author": "kenno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/amadosibina/issues"
+  },
+  "homepage": "https://github.com/github.com/amadosibina#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.3"
+  }
+}
